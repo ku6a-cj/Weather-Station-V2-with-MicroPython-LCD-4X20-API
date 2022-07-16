@@ -4,11 +4,11 @@ Weather Station with MicroPython LCD 4X20 API
 Based on LCD 4x20 code by: sweet pi  https://github.com/sweetpi/python-i2c-lcd
 
 
-To make it work you will need:
--3.3V / 5V logic level converter - UART - Iduino ST1167
--4 buttons
--LCD 4 x 20 
--some wires
+To make it work you will need:  <br /> 
+-3.3V / 5V logic level converter - UART - Iduino ST1167   <br /> 
+-4 buttons  <br /> 
+-LCD 4 x 20  <br /> 
+-some wires  <br /> 
 -printed circuit board 
 
 How to connect logic level converter to raspberry pi and LCD:
