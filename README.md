@@ -23,4 +23,3 @@ https://github.com/ku6a-cj/Weather-Station-V2-with-MicroPython-LCD-4X20-API/blob
 My final circut:
 
 ![alt text](https://raw.githubusercontent.com/ku6a-cj/Weather-Station-V2-with-MicroPython-LCD-4X20-API/main/Photos/IMG_6491.jpg)
-![alt text](https://raw.githubusercontent.com/ku6a-cj/Weather-Station-V2-with-MicroPython-LCD-4X20-API/main/Photos/IMG_6492.jpg)
